@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538859708 source:d:\mario\ass.task3\main.cpp
+	<iostream>
+	<iomanip>
+	<valarray>
+

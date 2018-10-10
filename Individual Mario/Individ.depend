@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539192365 source:d:\c++ prog\individ\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
